@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/openstaffhub-35373-1f93724e/ems_frontend"
+}
